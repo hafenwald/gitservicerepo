@@ -1,2 +1,4 @@
 share file
+
 from samples gitremoterepo --> gitservicerepo
+from partner gitsevicerepo
