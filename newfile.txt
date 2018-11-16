@@ -1,1 +1,2 @@
 share file
+from partner gitsevicerepo
