@@ -1,4 +1,8 @@
 share file
 
 from samples gitremoterepo --> gitservicerepo
+<<<<<<< HEAD
 from partner gitsevicerepo --> !!
+=======
+from partner gitsevicerepo ??
+>>>>>>> 412c9d6813a167d7abb08e7c68d414294cae89b3
