@@ -3,4 +3,4 @@ share file
 from samples gitremoterepo --> gitservicerepo
 from partner gitsevicerepo --> !!
 from partner gitsevicerepo ??
-
+from samples gitremoterepo --> gui show
